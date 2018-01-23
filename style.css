@@ -1,0 +1,32 @@
+#show{
+  border:0.5px solid white;
+	width:500px;
+	height:200px;	
+	padding:10px;
+  margin:10% auto;
+}
+p{
+  align: center;
+}
+#wimage{
+  width:80;
+  hight:50;
+}
+body{
+  background-color: silver;
+}
+h2{
+  text-align : center;
+}
+h3{
+  text-align : center;
+  color: blue;
+}
+
+.footer{
+	width:300px;
+  text-align:center;
+  margin:auto;
+  font-size:12px;
+  color:green;
+	}
